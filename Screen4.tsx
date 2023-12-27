@@ -2,7 +2,7 @@ import { View, StyleSheet } from 'react-native'
 
 const Screen4 = () => {
     return (
-        <View style={[styles.container, { backgroundColor: '#004081' }]}></View>
+        <View style={[styles.container, { backgroundColor: '#0fff0f' }]}></View>
     )
 }
 
